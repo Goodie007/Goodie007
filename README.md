@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 
 
-- 🔭 I’m currently working on my portfolio using vanilla javascript and react
+- 🔭
 - 🌱 I’m currently learning Nodejs, C++ and Python (Artificial Intelligence in Robotics)
 - 👯 I’m looking to collaborate on React, React Native and Python Django projects
 - 🤔 I’m looking for help with C++ and Python internships
