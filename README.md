@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 - 🔭
 - 🌱 I’m currently learning Nodejs, C++ and Python (Artificial Intelligence in Robotics)
 - 👯 I’m looking to collaborate on React, React Native and Python Django projects
-- 🤔 I’m looking for help with C++ and Python internships
-- 💬 Ask me about Python Django, React and React Native
+- 🤔 I’m looking for help with Python internships 
+- 💬 Looking to improve more on Data Structure and Algorithms
 - 📫 How to reach me: aruoturegoodness@gmail.com
 - ⚡ Fun fact: I'm a big fan of chess, music, video games and books
