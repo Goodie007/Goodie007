@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 - 🔭
 - 🌱 I’m currently learning C++, C# and Python (Artificial Intelligence in Robotics)
-- 👯 I’m looking to collaborate on React, React Native and Python Django projects
+- 👯 I’m looking to collaborate on React, React Native and TypeScript projects
 - 🤔 I’m looking for help with Python internships 
 - 💬 Looking to improve more on Data Structure and Algorithms
 - 📫 How to reach me: aruoturegoodness@gmail.com
